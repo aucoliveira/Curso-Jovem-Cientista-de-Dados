@@ -1,0 +1,2 @@
+kibana http://localhost:5601/
+elastic  http://localhost:9200/
